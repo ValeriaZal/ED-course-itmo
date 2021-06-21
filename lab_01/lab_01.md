@@ -18,8 +18,11 @@ Solution:
 5. See "Divide into train/eval" in lab_01.ipynb (comment: data is already balanced by creators in 10 folders, so additional shuffling is not recommended for this data)
 6. See "Base classificator" in lab_01.ipynb (svm.SVC() with default parameters)
 7. Result:
+
 7.1. F1-score
+
 7.1.1. Train data
+
 ```
               precision    recall  f1-score   support
 
@@ -66,21 +69,21 @@ weighted avg       0.50      0.48      0.48      2460
 
 Absolute values
 
-![base_clf_cm_abs_train](/img/base_clf_cm_abs_train.png)
+![base_clf_cm_abs_train](/img/base_clf_cm_abs_train.png?raw=true)
 
 Normalized by true labels' number
 
-![base_clf_cm_norm_train](/img/base_clf_cm_norm_train.png)
+![base_clf_cm_norm_train](/img/base_clf_cm_norm_train.png?raw=true)
 
 7.2.2. Test data
 
 Absolute values
 
-![base_clf_cm_abs_test](/img/base_clf_cm_abs_test.png)
+![base_clf_cm_abs_test](/img/base_clf_cm_abs_test.png?raw=true)
 
 Normalized by true labels' number
 
-![base_clf_cm_norm_test](/img/base_clf_cm_norm_test.png)
+![base_clf_cm_norm_test](/img/base_clf_cm_norm_test.png?raw=true)
 
 8. Result:
 
@@ -134,18 +137,18 @@ weighted avg       0.54      0.54      0.53      2460
 
 Absolute values
 
-![best_clf_cm_abs_train](/img/best_clf_cm_abs_train.png)
+![best_clf_cm_abs_train](/img/best_clf_cm_abs_train.png?raw=true)
 
 Normalized by true labels' number
 
-![best_clf_cm_norm_train](/img/best_clf_cm_norm_train.png)
+![best_clf_cm_norm_train](/img/best_clf_cm_norm_train.png?raw=true)
 
 8.2.2. Test data
 
 Absolute values
 
-![best_clf_cm_abs_test](/img/best_clf_cm_abs_test.png)
+![best_clf_cm_abs_test](/img/best_clf_cm_abs_test.png?raw=true)
 
 Normalized by true labels' number
 
-![best_clf_cm_norm_test](/img/best_clf_cm_norm_test.png)
+![best_clf_cm_norm_test](/img/best_clf_cm_norm_test.png?raw=true)
