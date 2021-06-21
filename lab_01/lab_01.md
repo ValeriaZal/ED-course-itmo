@@ -69,21 +69,21 @@ weighted avg       0.50      0.48      0.48      2460
 
 Absolute values
 
-![base_clf_cm_abs_train](/img/base_clf_cm_abs_train.png?raw=true)
+![base_clf_cm_abs_train](/lab_01/img/base_clf_cm_abs_train.png?raw=true)
 
 Normalized by true labels' number
 
-![base_clf_cm_norm_train](/img/base_clf_cm_norm_train.png?raw=true)
+![base_clf_cm_norm_train](/lab_01/img/base_clf_cm_norm_train.png?raw=true)
 
 7.2.2. Test data
 
 Absolute values
 
-![base_clf_cm_abs_test](/img/base_clf_cm_abs_test.png?raw=true)
+![base_clf_cm_abs_test](/lab_01/img/base_clf_cm_abs_test.png?raw=true)
 
 Normalized by true labels' number
 
-![base_clf_cm_norm_test](/img/base_clf_cm_norm_test.png?raw=true)
+![base_clf_cm_norm_test](/lab_01/img/base_clf_cm_norm_test.png?raw=true)
 
 8. Result:
 
@@ -137,18 +137,18 @@ weighted avg       0.54      0.54      0.53      2460
 
 Absolute values
 
-![best_clf_cm_abs_train](/img/best_clf_cm_abs_train.png?raw=true)
+![best_clf_cm_abs_train](/lab_01/img/best_clf_cm_abs_train.png?raw=true)
 
 Normalized by true labels' number
 
-![best_clf_cm_norm_train](/img/best_clf_cm_norm_train.png?raw=true)
+![best_clf_cm_norm_train](/lab_01/img/best_clf_cm_norm_train.png?raw=true)
 
 8.2.2. Test data
 
 Absolute values
 
-![best_clf_cm_abs_test](/img/best_clf_cm_abs_test.png?raw=true)
+![best_clf_cm_abs_test](/lab_01/img/best_clf_cm_abs_test.png?raw=true)
 
 Normalized by true labels' number
 
-![best_clf_cm_norm_test](/img/best_clf_cm_norm_test.png?raw=true)
+![best_clf_cm_norm_test](/lab_01/img/best_clf_cm_norm_test.png?raw=true)
